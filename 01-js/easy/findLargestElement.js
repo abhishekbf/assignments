@@ -14,15 +14,6 @@ function findLargestElement(numbers) {
             return largest;
         } }
     const number[1,6,4,5,6,9];
-    console.log(findLargestElement(number));
-            
-
-
-
-
-    
-    
-    
+    console.log(findLargestElement(number));   
 }
 
-module.exports = findLargestElement;
